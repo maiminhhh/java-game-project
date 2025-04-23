@@ -11,7 +11,7 @@ A Java-based game developed using **Gradle**, featuring infinite randomized roun
 
 ## 🎬 Demo Video
 
-[🎥 Watch Demo (Local File)](./demo.mp4)
+[🎥 Watch Demo](./demo.mp4)
 
 ---
 
